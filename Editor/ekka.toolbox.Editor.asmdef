@@ -1,0 +1,14 @@
+{
+  "name": "ekka.toolbox.Editor",
+  "references": [
+    "ekka.toolbox"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
