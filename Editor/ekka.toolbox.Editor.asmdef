@@ -3,7 +3,9 @@
   "references": [
     "ekka.toolbox"
   ],
-  "includePlatforms": [],
+  "includePlatforms": [
+    "Editor"
+  ],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "autoReferenced": true,
