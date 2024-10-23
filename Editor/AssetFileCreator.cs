@@ -3,11 +3,11 @@ using UnityEditor;
 using UnityEditor.Animations;
 using UnityEngine;
 
-namespace ekka.toolBox.editor
+namespace ekka.toolbox.editor
 {
     public sealed class AssetFileCreator
     {
-        [MenuItem("Assets/Create/Blend Tree [EKKA Tool Box]", priority = 405)]
+        [MenuItem("Assets/Create/Blend Tree [EKKA Toolbox]", priority = 405)]
         public static void CreateNewBlendTree()
         {
             CreateAssetFileInActiveFolder(new BlendTree(), "New Blend Tree.Asset");

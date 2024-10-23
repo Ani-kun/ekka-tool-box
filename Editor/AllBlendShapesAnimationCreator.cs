@@ -1,11 +1,11 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace ekka.toolBox.editor
+namespace ekka.toolbox.editor
 {
     public class AllBlendShapesAnimationCreator
     {
-        [MenuItem("GameObject/EKKA Tool Box/Create All Blend Shapes Animation", false, 0)]
+        [MenuItem("GameObject/EKKA Toolbox/Create All Blend Shapes Animation", false, 0)]
         public static void CreateAllBlendShapesAnimation()
         {
             CreateAllBlendShapesAnimation(Selection.activeGameObject);
